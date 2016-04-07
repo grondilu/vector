@@ -3,7 +3,7 @@
     "version" : "1.0.0",
     "description" : "Basic vectors in Perl 6",
     "provides": {
-        "Vector":    "lib/Vector.pm6",
+        "Vector":    "lib/Vector.pm6"
     },
     "author" : "Lucien Grondin",
     "depends" : [ ],
