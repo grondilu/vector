@@ -1,6 +1,6 @@
 {
     "name" : "Vector",
-    "version" : "0.0.1",
+    "version" : "1.0.0",
     "description" : "Basic vectors in Perl 6",
     "provides": {
         "Vector":    "lib/Vector.pm6",
