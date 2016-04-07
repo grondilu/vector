@@ -1,4 +1,5 @@
 # Vector
+[![Build Status](https://travis-ci.org/grondilu/vector.svg)](https://travis-ci.org/grondilu/vector)
 
 ## Synopsis
 
